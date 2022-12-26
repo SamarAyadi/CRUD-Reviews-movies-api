@@ -1,7 +1,7 @@
 # CRUD-Reviews-movies-api
 Part 2
 
-# Movie-api-part1
+# Movie-api-part2
 
 ## Usage
 ### Install dependencies
